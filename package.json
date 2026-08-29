@@ -1,0 +1,16 @@
+{
+  "name": "smart-contract-auto-signer-bot",
+  "version": "1.0.0",
+  "description": "Smart Contract Event Monitoring and Auto-Signing Executor for Web3 Pool Integration",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
