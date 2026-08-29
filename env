@@ -1,0 +1,3 @@
+RPC_URL=https://rpc.ankr.com/bsc
+BOT_PRIVATE_KEY=ضع_المفتاح_الخاص_بمحفظة_الـ_Executor_هنا
+CONTRACT_ADDRESS=ضع_عنوان_العقد_الذكي_الرئيسي_هنا
